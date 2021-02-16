@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "\"a color changing clock\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rhday/npm-lab.git"
+  },
+  "author": "rhday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhday/npm-lab/issues"
+  },
+  "homepage": "https://github.com/rhday/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
